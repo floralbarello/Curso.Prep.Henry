@@ -1,0 +1,4 @@
+FOR: ("Para"). Lo uso cuando tengo que repetir una condicion. Cuando defino el bucle FOR debo declarar una variable, la condicion que debe cumplir esa variable para continuar ejecutando el bucle y como se va modificando esa variable.  
+&&: ("Y", "AND"). La declaracion && es una operacion logica que se utiliza para comprobar que dos expresiones son verdaderas A LA VEZ. Devuelve el booleano "true" si AMBAS expresiones son verdaderas y el booleano "false" si ALGUNA de las expresiones es falsa. 
+||: ("O", "OR"). La declaracion || es una operacion logica que se utiliza para comprobar que alguna de las expresiones determinadas es verdadera. Devuelve el booleano "true" si ALGUNA de las expresiones es verdadera y el booleano "false" si AMBAS expresiones son falsas. 
+!: ("NO", "NOT"). Es otra operacion logica. Se coloca delante de una expresion para indicar LO CONTRARIO. 

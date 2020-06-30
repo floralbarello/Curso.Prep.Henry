@@ -1,0 +1,10 @@
+Los arrays son "cajas" con datos ordenados adentro. 
+Para saber cuantos datos tiene el array adentro puedo usar el método "array.length".
+Las posiciones de los datos van desde '0' hasta 'array.length - 1'. Para saber qué dato tengo en determinada posición debo usar: array['numero de posicion'].
+Puedo agregar y borrar datos del inicio o del final del array usando los métodos:
+  array.push(elemento): agrega el elemento "elemento" al final del array;
+  array.pop(): elimina el último elemento del array;
+  array.unshift(elemento): agrega el elemento "elemento" en la posición 0 del array;
+  array.shift(): elimina el primer elemento (posicion 0) del array.
+
+La propiedad "argumentos" debe ser tratada como un caso especial de array.
